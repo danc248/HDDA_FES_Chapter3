@@ -3,6 +3,14 @@
 il dataset iniziale "chicago.RData" si trova nel seguente link:
 https://github.com/topepo/FES/tree/master/Data_Sets/Chicago_trains 
 
+NUOVI COMMENTI (giorno 05/11/2021)
+1) sezione 3.4 --> ricontrollare "bootstrap" e fare il grafico del "Rolling Origin Forecasting" (in caso possiamo i codici già presenti nel mio script per farli)
+2) sezione 3.4 "Rolling Origin Forecasting" --> valutare se dobbiamo usare anche "skip" e "samples uneven" (bullets 2 e 3 della sezione 3.4.4)
+3) sezione 3.4 --> dobbiamo fare le sotto-sezioni 3.4.5 , 3.4.6, 3.4.7
+4) sezioni 3.5 in poi --> da fare (considerando che parte della sezione 3.6 è già stata fatta dall'autore)
+
+
+VECCHI COMMENTI:
 per ora, ho visto che mancano i seguenti elementi (o vanno corretti):
 1) "table 3.2" (https://bookdown.org/max/FES/measuring-performance.html#tab:review-class-table )
 2) "figure 3.3" (https://bookdown.org/max/FES/measuring-performance.html#fig:review-mosic )
